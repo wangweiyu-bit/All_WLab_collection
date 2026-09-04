@@ -1,0 +1,4 @@
+version=v2026.09.04
+date=2026-09-04
+notes1=优化 All_WLab_collection 功能说明；完善授权成功提示；优化插件更新提示流程
+notes2=新增 4-09 Universal Fast Positive Area Analyzer：快速阳性面积占比分析功能，适合初学者使用，共有 54 种可选方案

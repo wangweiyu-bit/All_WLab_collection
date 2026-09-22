@@ -1,5 +1,3 @@
-version=v2026.09.12
-date=2026-09-12
-notes1=修复1-01 Mean Fluorescence Intensity Analyzer (MFI)单色图模式下多余的 Stack 的bug
-notes2=4-07 WB Quantification Analyzer升级单/多条带提取模式，加入防误触机制并自动清空选区，实现一路点击 OK 即可无缝切图的极致丝滑体验。
-notes3=1-11 Colocalization Analyzer (Pearson and Manders Coefficients)重构双模式自适应，自动全排列，无限交叉配对
+version=v2026.09.22
+date=2026-09-22
+notes1=新增3-07 Microscopy_Raw_Format_To_RGB_Converter（显微镜原格式转图片）

@@ -1,3 +1,4 @@
-version=v2026.11.20
-date=2026-11-20
-notes1=新增1-21 Batch ROI Capture and Measure  3-01全局记忆 1-21圈圈荧光面积，新增格式选择
+version=v2026.11.21
+date=2026-11-21
+notes1=Added 1-21 Batch ROI Capture and Measure 3-01 Global Memory 1-21 Fluorescence Area of Loops, Added Format Selection
+notes2=Added 1-11 RBG图片

@@ -1,4 +1,4 @@
-version=v2026.11.21
-date=2026-11-21
-notes1=Added 1-21 Batch ROI Capture and Measure 3-01 Global Memory 1-21 Fluorescence Area of Loops, Added Format Selection
-notes2=Added 1-11 RBG图片
+version=2026.1124.233846
+date=2026-11-24
+notes1=工作台程序已更新
+notes2=通用常见问题

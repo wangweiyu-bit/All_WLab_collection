@@ -1,7 +1,5 @@
-version=2026.1125.091536
+version=2026.1125.091849
 date=2026-11-25
-notes1=更新新版工作台
-notes2=新增工作台公告
-notes3=新增通用常见问题
-builtAt=2026-11-25 09:15:36
-sha256=61c1bfb9e8d8f077842de1e7dddd76d08a7a27335d534d5ea9646bc0736d7cf8
+notes1=工作台公告
+builtAt=2026-11-25 09:18:49
+sha256=eeea0f06f44fbfd1b81ea93ac2b8e50833b4573d7953ee7ead3692b1ac1ef0a4

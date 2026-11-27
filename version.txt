@@ -1,7 +1,6 @@
-version=2026.1126.205042
-date=2026-11-26
-notes1=工作台程序已更新
-notes2=更新 · 3-10 图片两两比较查重：IJM 内容
-notes3=更新 · 3-11 单张图内部查重：IJM 内容
-builtAt=2026-11-26 20:50:42
-sha256=5967666bbc40628cba14273bed5c798c1fee4059c25e99d097b460452fb7efb6
+version=2026.1127.103021
+date=2026-11-27
+notes1=更新 · 3-10 图片两两比较查重：IJM 内容
+notes2=更新 · 3-11 单张图内部查重：IJM 内容
+builtAt=2026-11-27 10:30:21
+sha256=ff7b052aa1af5bbbcb56260d89b0a86f568e87efd4d06b6f9ed346ccb97a31fe
